@@ -28,4 +28,4 @@ Every program team, contractor, and collaborator working with ARPA-H operates wi
 
 ## Get Involved
 
-> **ARPA-H is hiring.** Visit [arpa-h.gov/careers](https://arpa-h.gov/careers) to learn more about our opportunities.
+**ARPA-H is hiring.** Visit [arpa-h.gov/careers](https://arpa-h.gov/careers) to learn more about our opportunities.
