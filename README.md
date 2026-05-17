@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/110876048?s=200&v=4" alt="ARPA-H" width="160" />
 </p>
 
-<h1 align="center">Advanced Research Projects Agency for Health</h1>
+<h1 align="center">Advanced Research Projects Agency for Health (ARPA-H)</h1>
 
 <p align="center">
   <em>Driving breakthroughs that can transform the health of all Americans.</em>
@@ -27,13 +27,11 @@ Every program team, contractor, and collaborator working with ARPA-H operates wi
 | Capability | Purpose |
 |---|---|
 | [**GitHub Advanced Security**](https://github.com/features/security) | Automated vulnerability scanning, secret detection, and code analysis baked into every repository — security by default, not afterthought. |
-| [**GitHub Codespaces**](https://github.com/features/codespaces) | Instant, pre-configured cloud development environments that eliminate setup friction and keep development reproducible and auditable. |
+| [**GitHub Codespaces**](https://github.com/features/codespaces) | Instant, pre-configured cloud development environments that eliminate setup friction and keep development reproducible and auditable. No need for local admin or chasing CVEs because developers cannot be bothered to update their dependencies. GitHub's SaaS offering here is not in your fleet and therefore out of scope for CISA CDM. |
 | [**GitHub Copilot**](https://github.com/features/copilot) | AI-assisted coding across every editor and workflow, with an **enforced MCP Registry** that governs which agentic integrations teams may connect — ensuring consistent, approved tooling across the portfolio. |
 
 ---
 
 ## Get Involved
-
-This organization hosts public-facing projects, shared workflow templates, and governance tooling for ARPA-H's open-source presence.
 
 > **ARPA-H is hiring.** Visit [arpa-h.gov](https://arpa-h.gov) to learn more about our programs and opportunities.
