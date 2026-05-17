@@ -2,15 +2,13 @@
   <img src="https://arpa-h.gov/themes/custom/arpatheme/legacy/logos/logo_reverse.svg" alt="ARPA-H" width="500" />
 </p>
 
-<h1 align="center">Advanced Research Projects Agency for Health (ARPA-H)</h1>
-
 <p align="center">
   <em>Driving breakthroughs that can transform the health of all Americans.</em>
 </p>
 
 ## Our Mission
 
-ARPA-H is charged with making pivotal investments in breakthrough technologies and broadly applicable platforms, capabilities, resources, and solutions that have the potential to transform important areas of medicine and health for the benefit of all patients — and that cannot readily be accomplished through traditional biomedical research or commercial activity.
+The Advanced Research Projects Agency for Health (ARPA-H) is charged with making pivotal investments in breakthrough technologies and broadly applicable platforms, capabilities, resources, and solutions that have the potential to transform important areas of medicine and health for the benefit of all patients — and that cannot readily be accomplished through traditional biomedical research or commercial activity.
 
 Established within the Department of Health and Human Services (HHS), ARPA-H is designed to accelerate better health outcomes by funding high-risk, high-reward research at the frontiers of science.
 
