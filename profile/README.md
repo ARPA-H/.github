@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://arpa-h.gov/themes/custom/arpatheme/legacy/logos/logo_reverse.svg" alt="ARPA-H" width="500" />
+  <img src="https://arpa-h.gov/themes/custom/arpatheme/legacy/logos/logo.svg" alt="ARPA-H" width="500" />
 </p>
 
 <p align="center">
