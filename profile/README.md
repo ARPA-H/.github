@@ -27,3 +27,16 @@ Every program team, contractor, and collaborator working with ARPA-H operates wi
 ## Get Involved
 
 **ARPA-H is hiring.** Visit [arpa-h.gov/careers](https://arpa-h.gov/careers) to learn more about our opportunities.
+
+---
+
+<p align="center">
+  <a href="https://www.hhs.gov/web/section-508/index.html">Accessibility</a> &nbsp;·&nbsp;
+  <a href="https://arpa-h.gov/privacy-policy">Privacy Policy</a> &nbsp;·&nbsp;
+  <a href="https://arpa-h.gov/freedom-of-information-act">Freedom of Information Act</a> &nbsp;·&nbsp;
+  <a href="https://www.hhs.gov/web/policies-and-standards/hhs-web-policies/disclaimer/index.html">Linking Policy</a> &nbsp;·&nbsp;
+  <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html">Vulnerability Disclosure Policy</a> &nbsp;·&nbsp;
+  <a href="https://www.hhs.gov/about/agencies/asa/eeo/no-fear-act/index.html">No FEAR Act</a> &nbsp;·&nbsp;
+  <a href="https://oig.hhs.gov/">Inspector General</a> &nbsp;·&nbsp;
+  <a href="https://arpa-h.gov/logo">Logo Guidance</a>
+</p>
